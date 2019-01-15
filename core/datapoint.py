@@ -1,0 +1,3 @@
+class Datapoint(dict):
+
+    pass

@@ -1,0 +1,8 @@
+pip-tools
+sniffer
+nose-focus
+nose-timer
+MacFSEvents
+sklearn
+pandas
+loguru
